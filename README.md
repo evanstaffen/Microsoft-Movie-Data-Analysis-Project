@@ -18,15 +18,15 @@ Using descriptive analysis, I have been able to find the trends of most successf
 ## Results
 Out of the top 100 grossing movies, 64 of them are considered action movies.  The other dominating genre is animation with 21
 ![100Bar.png](https://github.com/evanstaffen/Microsoft-Movie-Data-Analysis-Project/blob/main/images/100Bar.png)
-![img](./Images/100Box.png)
+![100Box.png](https://github.com/evanstaffen/Microsoft-Movie-Data-Analysis-Project/blob/main/images/100Box.png)
 
 Next, I intended to see how the top 5 studios split their total gross based on action vs other genres. It was clear that of the top 5 studios, all almost have action as 50% of their total gross.
 
-![img](./Images/GROSSbyGENRE.png)
+![GROSSbyGENRE](https://github.com/evanstaffen/Microsoft-Movie-Data-Analysis-Project/blob/main/images/GROSSbyGENRE.png)
 
 There is a clear difference in movie runtimes between action and animation, where action tends to be approximately 105 minutes and animation movies tend to be 90. One interesting point to note is that the top 5 studios tend to have action movies that are around 10 minutes longer than the genre’s median.
 
-![img](./Images/SWARMPLOT.png)
+![SWARMPLOT](https://github.com/evanstaffen/Microsoft-Movie-Data-Analysis-Project/blob/main/images/SWARMPLOT.png)
 
 ## Conclusions
 There are three key recommendations that I would make to Microsoft for their movie studios.
