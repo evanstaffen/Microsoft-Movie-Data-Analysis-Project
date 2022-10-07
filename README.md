@@ -12,15 +12,15 @@ IMDB has almost 50 years of data showing movie ratings, their run times, the stu
 Using descriptive analysis, I have been able to find the trends of most successful genres and how the best studios split their earnings and make different length movies based on the genre.
 ## Results
 Out of the top 100 grossing movies, 64 of them are considered action movies.  The other dominating genre is animation with 21
-![img](./images/100Bar.png)
-![img](./images/100Box.png)
+![img](./Images/100Bar.png)
+![img](./Images/100Box.png)
 Next, I intended to see how the top 5 studios split their total gross based on action vs other genres. It was clear that of the top 5 studios, all almost have action as 50% of their total gross.
 
-![img](./images/GROSSbyGENRE.png)
+![img](./Images/GROSSbyGENRE.png)
 
 There is a clear difference in movie runtimes between action and animation, where action tends to be approximately 105 minutes and animation movies tend to be 90. One interesting point to note is that the top 5 studios tend to have action movies that are around 10 minutes longer than the genre’s median.
 
-![img](./images/SWARMPLOT.png)
+![img](./Images/SWARMPLOT.png)
 
 ## Conclusions
 There are three key recommendations that I would make to Microsoft for their movie studios.
