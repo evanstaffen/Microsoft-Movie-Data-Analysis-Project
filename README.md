@@ -17,7 +17,7 @@ Using descriptive analysis, I have been able to find the trends of most successf
 
 ## Results
 Out of the top 100 grossing movies, 64 of them are considered action movies.  The other dominating genre is animation with 21
-![img](./Images/100Bar.png)
+![100Bar.png](https://github.com/evanstaffen/Microsoft-Movie-Data-Analysis-Project/blob/main/images/100Bar.png)
 ![img](./Images/100Box.png)
 
 Next, I intended to see how the top 5 studios split their total gross based on action vs other genres. It was clear that of the top 5 studios, all almost have action as 50% of their total gross.
